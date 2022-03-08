@@ -1,2 +1,2 @@
-#!/bin/bash
-echo "Holberton School" | cat > '\*\\'\''"Holberton School"\'\''\\*$\?\*\*\*\*\*:)'
+#!/bin/basih
+echo "Holberton School" cat > '\*\\'\''"Holberton School"\'\''\\*$\?\*\*\*\*\*:)'
